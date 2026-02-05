@@ -143,6 +143,8 @@ Edit the urls line by line in the pages.txt file to include every url you want t
 
 Make sure every seperate url is on a new line.
 
+All urls for a site can easily be found from the sitemap.xml.
+
 
 ## 6) Run locally
 
