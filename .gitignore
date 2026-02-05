@@ -1,0 +1,35 @@
+# --- Secrets / Credentials ---
+secrets.txt
+creds.json
+*.pem
+*.p12
+*.key
+*.crt
+*.cer
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Local outputs / reports
+*.log
+results*.json
+results*.csv
+results*.xlsx
+*.har
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
